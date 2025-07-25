@@ -22,3 +22,29 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 ---
 
+### Melhorias Futuras  
+
+- Bloquear nomes duplicados.  
+- Botão para remover um nome específico da lista.  
+- Estilização avançada (modo escuro, responsividade).  
+- Animação no momento do sorteio.  
+
+--- 
+### Tecnologias utilizadas  
+
+- **HTML5** – Marcações semânticas para estrutura da página.  
+- **CSS3** – Estilização básica para melhor visualização e layout.  
+- **JavaScript (Vanilla)** – Manipulação do DOM, lógica de validação, atualização da lista e sorteio aleatório.
+
+---
+
+### Como executar o projeto  
+
+1. Clone este repositório ou baixe os arquivos.  
+2. Abra o arquivo `index.html` no seu navegador.  
+3. Comece a adicionar nomes e realizar o sorteio!  
+---
+
+### Autor  
+Projeto desenvolvido como parte do **Oracle Next Education - ONE** pelo Grupo 9.
+
