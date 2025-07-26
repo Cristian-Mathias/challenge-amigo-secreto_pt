@@ -45,6 +45,11 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 3. Comece a adicionar nomes e realizar o sorteio!  
 ---
 
+### Acesse o projeto:
+➡ [Clique aqui para abrir a aplicação](https://cristian-mathias.github.io/challenge-amigo-secreto_pt/)
+
+---
+
 ### Autor  
 Projeto desenvolvido como parte do **Oracle Next Education - ONE** pelo Grupo 9.
 
